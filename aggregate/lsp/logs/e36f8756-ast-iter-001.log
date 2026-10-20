@@ -1,0 +1,7 @@
+[2026-10-20T11:23:26Z] === AST ITERATION 1 START | repo=jaraco/jaraco.pmxbot sha=e36f8756 ===
+[2026-10-20T11:23:26Z] [iter=1] PHASE START: ast repo=jaraco/jaraco.pmxbot sha=e36f8756
+[2026-10-20T11:23:26Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T11:23:26Z] [iter=1] AST chunks built count=1 triples=4860
+[2026-10-20T11:23:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e36f87565aebde59df1829d3308d88831e5acabc/.complete
+[2026-10-20T11:23:26Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-20T11:23:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
