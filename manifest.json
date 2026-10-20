@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "jaraco",
+  "repo": "jaraco.pmxbot",
+  "versions": [
+    {
+      "commit": "e36f87565aebde59df1829d3308d88831e5acabc",
+      "parsed_at": "2026-10-20T11:22:35.162797+00:00",
+      "filetree": "filetree/e36f87565aebde59df1829d3308d88831e5acabc.nq.gz",
+      "blobs": [
+        "blob/0e3865293f8d940ee9a07818492f47113597eb8b.nq.gz",
+        "blob/1f2aa7533b0423a8eb943f6f4ec02498e39581a0.nq.gz",
+        "blob/54c9000ec94341dd65c2053251b85b124017b9b5.nq.gz",
+        "blob/9a0f3bce1395ae3819030b822e5d9076c85068ea.nq.gz",
+        "blob/5bdc232005af9be104a00437ae9bc64417a4c1cc.nq.gz",
+        "blob/a5fcf1d1f9562e0e86945dff4f52a412c33ba46a.nq.gz",
+        "blob/d03fc8a85e15383f330a6d2fed8c758e7e9b7af9.nq.gz",
+        "blob/2e3f4dd791a6372b427d618eb0baa8c4dc58e5f0.nq.gz",
+        "blob/e7207cf0f57481caf49811a403728db92aecab80.nq.gz",
+        "blob/577e87a793a20e413f7321f4f17ec1eba2ea1962.nq.gz",
+        "blob/c113a401789511382a4afd7280090d0510cf5bd3.nq.gz",
+        "blob/e3882781deb1a2560b7e6c07e7e8efe730a00b85.nq.gz",
+        "blob/e05a3d4a2ab888e32952006d8cd380864368db5f.nq.gz",
+        "blob/5c05f9e27d57a4b7a3c3a9fdfecf8cddb8be499f.nq.gz",
+        "blob/4b624bd7603e95027b1f3dadad39ed698ce28e57.nq.gz",
+        "blob/304196f81e11a168c9894f966e4a617ebf4ed53c.nq.gz",
+        "blob/724370638fc188317bbc7dc868f1a571995fd796.nq.gz",
+        "blob/700235be57c1b2872455c0be5333f59cf568e252.nq.gz",
+        "blob/31aeef78fc74f23b1d51354befa319c5216b2c5c.nq.gz",
+        "blob/efcb8cbc2043faa7caf4f92fc7488bd6914c934c.nq.gz",
+        "blob/240329c3604d8ead4c10aa8c88352caa8e4ce7b2.nq.gz",
+        "blob/af63dc1ce57401acd82d7678f27fa87cccb1e734.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/54cc8303b22089e12053e552d4e6cb852a865b8a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
