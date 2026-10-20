@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.pmxbot",
+  "versions": [
+    {
+      "commit": "e36f87565aebde59df1829d3308d88831e5acabc",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:24:54.499840+00:00"
+    }
+  ]
+}
